@@ -1,1 +1,1 @@
-"# ts-node-modules-types-delete" 
+# ts-node-modules-types-delete
