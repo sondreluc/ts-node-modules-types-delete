@@ -18,6 +18,10 @@
   "homepage": "https://github.com/sondreluc/ts-node-modules-types-delete#readme",
   "dependencies": {
     "@types/react": "^16.9.2",
+    "@typescript-eslint/eslint-plugin": "^2.2.0",
+    "@typescript-eslint/parser": "^2.2.0",
+    "eslint": "^6.4.0",
+    "eslint-plugin-react": "^7.14.3",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "typescript": "^3.6.3"
